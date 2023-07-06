@@ -28,7 +28,7 @@
 							<a href="src/views/semLogin.php"><button class="ButtonS">Continuar sem Login</button></a>
 						</dialog>
 					</div>
-				</div>
+				</div>a
 			</div>
 			
 			<!-- footer -->
